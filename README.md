@@ -13,7 +13,7 @@ The dashboard answers key HR business questions such as:
 - What is the average employee salary?
 - Which departments have the highest number of employees?
 - How are employees performing across the organization?
-- How many employees are Active, Terminated, or On Leave?
+- How many employees are Active, Resigned, or Left?
 
 ## Dashboard Features
 ### The dashboard includes:
@@ -22,13 +22,22 @@ The dashboard answers key HR business questions such as:
 - Total Salary
 - Average Salary
 - Total Departments
+- Attrition Rate
+- Total Bonus Payout
 
-#### Interactive Charts
+#### Interactive Charts and Pivot Table
 -Employee Distribution by Department
 - Salary by Department
 - Performance Rating Distribution
 - Employment Status Breakdown
 - Hiring Trend by Year
+
+<img width="1911" height="991" alt="pivot-table1" src="https://github.com/user-attachments/assets/281d339d-f30e-4bbb-b046-0fb9df67811b" /> 
+
+<img width="1913" height="998" alt="pivot-table2" src="https://github.com/user-attachments/assets/9b517923-837b-4964-9df2-6b1d371d37f9" />
+
+
+
   
 #### Dynamic Filters (Slicers)
 - Department
